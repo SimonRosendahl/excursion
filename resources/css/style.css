@@ -1,0 +1,18 @@
+body, html {
+    font-family: "Verdana";
+    font-weight: normal;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+a {
+    font-size: 16px;
+    color: aquamarine;
+    margin-top: 20px;
+}
+video {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    margin-top: 20px;
+}
