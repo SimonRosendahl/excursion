@@ -1,14 +1,13 @@
 body, html {
     font-family: "Verdana";
-    font-weight: normal;
     color: white;
     background-color: black;
-    text-align: center;
 }
 a {
     font-size: 16px;
     color: aquamarine;
     margin-top: 20px;
+    text-align: center;
 }
 video {
     display: flex;
@@ -16,3 +15,22 @@ video {
     margin: 0 auto;
     margin-top: 20px;
 }
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+p {
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+.footer {
+    text-align: right;
+}
+
